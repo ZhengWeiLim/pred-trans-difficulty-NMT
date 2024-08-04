@@ -10,7 +10,7 @@ See `result-analysis.ipynb` for analysis of these values that has been presented
 ```
 Zheng Wei Lim, Ekaterina Vylomova, Charles Kemp, and Trevor Cohn. 2023.  
 Predicting Human Translation Difficulty with Neural Machine Translation. 
-In Transactions of the Association for Computational Linguistics 2023 (under review).
+In Transactions of the Association for Computational Linguistics 2024 (accepted).
 ```
 
 
